@@ -12,23 +12,23 @@ day and remember that work. So that without any obstacle all the work will be
 done in a timely way
 # Block Diagram
    
-![Block Diagram](assets/images/1.jpg)
+![Block Diagram](assets/images/1.JPG)
 
 # Use Case Diagram
    
-![Use case](assets/images/2.jpg)
+![Use case](assets/images/2.JPG)
 
 # Sequence Chart
    
-![Sequence chart](assets/images/3.jpg)
+![Sequence chart](assets/images/3.JPG)
 
 # Flow Chart
    
-![Flow Chart](assets/images/4.jpg)
+![Flow Chart](assets/images/4.JPG)
 
 # User Interface Screenshots
    
-![ui](assets/images/5.jpg)
+![ui](assets/images/5.JPG)
 
 # Implementations Details:
 
